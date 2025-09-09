@@ -1,4 +1,4 @@
-package Chapter1.PracticeExercises;
+package PracticeExercises;
 import javax.swing.JOptionPane;
 public class E1_15 {
     public static void main(String[] args){

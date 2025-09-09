@@ -1,4 +1,5 @@
-package Chapter1.PracticeExercises;
+package PracticeExercises;
+
 
 public class E1_4 {
     public static void main(String[] args){

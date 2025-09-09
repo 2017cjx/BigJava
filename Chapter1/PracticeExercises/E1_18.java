@@ -1,4 +1,4 @@
-package Chapter1.PracticeExercises;
+package PracticeExercises;
 import java.net.URL;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
